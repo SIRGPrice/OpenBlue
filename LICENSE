@@ -1,0 +1,183 @@
+# OpenBlue Personal & Research Use License (OB-PRL)
+
+**Version 1.0 — Effective date: May 2026**
+
+Copyright (c) 2026 **SIRGPrice** (GitHub: <https://github.com/SIRGPrice>,
+contact: antonfernperez@gmail.com). All rights reserved.
+
+OpenBlue, including its name, source code, compiled `.vsix` artifacts,
+documentation, icons, and associated media, is the exclusive property of
+**SIRGPrice**. No transfer of ownership is granted by this Agreement;
+only the limited use rights described below.
+
+---
+
+## 1. Definitions
+
+- **"Software"** means the OpenBlue VS Code extension distributed in this
+  repository in object-code form (`.vsix` package), including any updates,
+  patches, documentation, icons, or media files distributed alongside it.
+- **"Licensor"** / **"SIRGPrice"** means SIRGPrice, an individual rights
+  holder residing in Spain, identified on GitHub as
+  <https://github.com/SIRGPrice>. Every reference to "Licensor" in this
+  Agreement refers exclusively to SIRGPrice.
+- **"You" / "Licensee"** means the individual obtaining a copy of the
+  Software under this Agreement.
+- **"Permitted Use"** means use of the Software:
+  - by a natural person, in a personal capacity, on devices You own or
+    control; or
+  - for academic research, scientific publication, teaching, or
+    classroom demonstration at an accredited educational or research
+    institution; or
+  - for internal evaluation or proof-of-concept work, not exceeding
+    ninety (90) consecutive days, intended to determine whether to
+    obtain a commercial license.
+- **"Commercial Use"** means any use of the Software that is, directly or
+  indirectly, primarily intended for or directed toward commercial
+  advantage, monetary compensation, or revenue generation — including but
+  not limited to:
+  - use within a for-profit organization in its day-to-day operations;
+  - use by a contractor or consultant in providing paid services;
+  - integration into a product or service that is sold, licensed,
+    sublicensed, or offered as a hosted service;
+  - use that supports the production of any commercial deliverable.
+
+## 2. Grant of License
+
+Subject to Your compliance with this Agreement, SIRGPrice (as Licensor)
+grants You a worldwide, royalty-free, non-exclusive, non-transferable,
+non-sublicensable license to:
+
+1. **Download and install** the Software for Permitted Use;
+2. **Run** the Software on devices You own or control;
+3. **Study** the Software's behavior and document Your observations in
+   academic publications, blog posts, or talks, provided You properly
+   attribute SIRGPrice as the rights holder.
+
+All rights not expressly granted in this Section 2 are reserved by
+SIRGPrice.
+
+## 3. Restrictions
+
+You shall **not**:
+
+1. Use the Software for any **Commercial Use** without first obtaining a
+   separate written commercial license from SIRGPrice.
+2. Redistribute, mirror, repackage, or republish the Software (in whole or
+   in part) outside of this repository, except for verbatim copies shared
+   privately with collaborators for the sole purpose of Permitted Use.
+3. Reverse engineer, decompile, disassemble, deobfuscate, or otherwise
+   attempt to derive the source code of the Software, except to the
+   limited extent expressly permitted by applicable law that cannot be
+   contractually waived.
+4. Remove, obscure, or alter any copyright notice, trademark, license
+   text, or attribution contained in the Software or its documentation.
+5. Use the Software to develop, train, fine-tune, or evaluate any product
+   that competes with OpenBlue.
+6. Use the names "OpenBlue" or "SIRGPrice", or any associated logos or
+   trademarks owned by SIRGPrice, in a way that suggests endorsement,
+   partnership, or affiliation, without SIRGPrice's prior written
+   consent.
+
+## 4. Attribution
+
+When publishing research, articles, talks, or any public material that
+references or relies on the Software, You shall credit **SIRGPrice** as
+the author and rights holder and include a citation substantially in the
+following form:
+
+> OpenBlue — Local AI Gateway for VS Code. SIRGPrice, 2026.
+> <https://github.com/SIRGPrice/OpenBlue>
+
+## 5. Third-Party Software and Trademarks
+
+The Software is a standalone extension. **It does not include, install,
+sublicense, or redistribute** any third-party product, including but not
+limited to:
+
+- **Claude Code** and the Anthropic API (subject to Anthropic, PBC's own
+  Terms of Service and Acceptable Use Policy).
+- **LM Studio** (subject to LM Studio / Element Labs, Inc.'s license
+  terms).
+- **Ollama** (subject to Ollama, Inc.'s license terms).
+- **Visual Studio Code** and **GitHub Copilot** (subject to Microsoft
+  Corporation's terms).
+- Any third-party large-language model You load, pull, or invoke through
+  the Software.
+
+You are solely responsible for obtaining, licensing, and complying with
+the terms of any third-party software You choose to use alongside the
+Software.
+
+"Claude", "Claude Code", "Anthropic", "Sonnet", "Haiku", and "Opus" are
+trademarks or registered trademarks of Anthropic, PBC. "LM Studio" is a
+trademark of LM Studio / Element Labs, Inc. "Ollama" is a trademark of
+Ollama, Inc. "Visual Studio Code", "VS Code", and "GitHub Copilot" are
+trademarks of Microsoft Corporation. All other trademarks remain the
+property of their respective owners. Use of these names in the Software
+or its documentation is strictly for compatibility identification and
+does not imply affiliation, endorsement, or sponsorship by any trademark
+holder.
+
+## 6. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF
+ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, NON-INFRINGEMENT, AND ACCURACY.
+
+SIRGPrice does not warrant that the Software will be error-free,
+uninterrupted, secure, or compatible with any particular third-party
+software version, hardware configuration, or future release.
+
+## 7. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL
+SIRGPrice BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS, DATA,
+GOODWILL, OR BUSINESS OPPORTUNITY, ARISING OUT OF OR RELATED TO THIS
+AGREEMENT OR THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF
+THE POSSIBILITY OF SUCH DAMAGES.
+
+Because the Software is provided to You at no charge under this
+Agreement, SIRGPrice's total aggregate liability arising out of this
+Agreement shall not exceed fifty euros (€50).
+
+## 8. Privacy and Telemetry
+
+The Software itself does not transmit telemetry, analytics, or personal
+data to SIRGPrice. Third-party software that You use alongside the
+Software (such as Claude Code, LM Studio, Ollama, or any model provider)
+may perform its own network communication, authentication, or telemetry,
+governed by the respective vendor's privacy policy. SIRGPrice has no
+control over and assumes no responsibility for the data practices of
+third-party software.
+
+## 9. Term and Termination
+
+This Agreement is effective until terminated. It terminates automatically
+and without notice if You breach any term. Upon termination You must
+cease all use of the Software and delete all copies in Your possession or
+control. Sections 5 through 11 survive termination.
+
+## 10. Commercial Licensing
+
+If You wish to use the Software for any Commercial Use, please contact
+**SIRGPrice** directly to obtain a separate commercial license:
+
+- **Email:** antonfernperez@gmail.com
+- **GitHub:** <https://github.com/SIRGPrice>
+
+## 11. Governing Law
+
+This Agreement shall be governed by and construed in accordance with the
+laws of Spain, without regard to its conflict-of-law provisions. Any
+dispute arising hereunder shall be subject to the exclusive jurisdiction
+of the courts of Madrid, Spain.
+
+---
+
+By downloading, installing, or using the Software, You acknowledge that
+You have read this Agreement, understand it, and agree to be bound by its
+terms. If You do not agree, do not download, install, or use the
+Software.
