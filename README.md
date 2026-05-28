@@ -597,11 +597,11 @@ Turning off Claude routing **removes** all OpenBlue-managed entries. No leftover
 ---
 
 ## ❓ FAQ
-
 <details>
+
 <summary><strong>Is OpenBlue free to use?</strong></summary>
 
-For **personal use, academic research, evaluation, and non-commercial purposes** — yes, under the [OpenBlue Personal & Research Use License](LICENSE). For commercial use, contact `antonfernperez@gmail.com`.
+The **standalone edition** available on GitHub is free for personal, academic, and evaluation purposes. It runs for **90 days (3 months)** from first installation on each device, after which all features are disabled. Reinstalling or resetting the system clock does not extend or restart the trial. For continued use beyond 3 months, a commercial license is required — contact **antonfernperez@gmail.com**.
 
 </details>
 
