@@ -19,6 +19,34 @@
 
 ---
 
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+<strong>Status Bar Tooltip</strong><br/>
+<img src="assets/screenshots/status-bar-tooltip.png" alt="OpenBlue status bar tooltip showing live backend status, loaded models and quick links" />
+<br/>
+<sub>Hover the polar bear icon — live status without opening anything.</sub>
+</td>
+<td align="center" width="50%">
+<strong>Main Menu (Quick Pick)</strong><br/>
+<img src="assets/screenshots/main-menu.png" alt="OpenBlue main menu Quick Pick with connection, models, routing and inline-completion sections" />
+<br/>
+<sub>Click the icon — full management surface in a single Quick Pick.</sub>
+<br/><br/>
+<strong>Ollama Model Downloader</strong><br/>
+<img src="assets/screenshots/downloads.png" alt="OpenBlue Ollama model downloader — search and pull models from the registry inside VS Code" />
+<br/>
+<sub>Search and pull models from the Ollama registry without leaving the editor.</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 🌊 What is OpenBlue?
 
 **OpenBlue** is a Visual Studio Code extension that turns your local model runtimes — [LM Studio](https://lmstudio.ai) and [Ollama](https://ollama.com) — into native providers inside the IDE. Your locally hosted models appear in **VS Code's native model picker**, in **GitHub Copilot Chat**, in **Claude Code**, and as **inline completions**. No cloud round-trips. No API keys. No data ever leaves your machine.
@@ -300,6 +328,11 @@ Hover the 🐻‍❄️ icon for a live tooltip with backend status, available m
 <img src="assets/screenshots/main-menu.png" alt="OpenBlue main menu Quick Pick with connection, models, routing and inline-completion sections" />
 <br/>
 <sub>Click the icon — full management surface in a single Quick Pick.</sub>
+<br/><br/>
+<strong>Ollama Model Downloader</strong><br/>
+<img src="assets/screenshots/downloads.png" alt="OpenBlue Ollama model downloader — search and pull models from the registry inside VS Code" />
+<br/>
+<sub>Search and pull models from the Ollama registry without leaving the editor.</sub>
 </td>
 </tr>
 </table>
